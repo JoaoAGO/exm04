@@ -18,8 +18,10 @@ div{
     background-color: blue;
     padding: 20px 10px 5px 0px;
     float: right;
+    position: relative;
+    top: 0px;
+    left: 0px;
 }
 #c{
     background-color: pink;
-    float: left;
 }
