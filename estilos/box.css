@@ -16,7 +16,10 @@ div{
 }
 #b{
     background-color: blue;
+    padding: 20px 10px 5px 0px;
+    float: right;
 }
 #c{
     background-color: pink;
+    float: left;
 }
